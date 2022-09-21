@@ -33,7 +33,11 @@ Type `npm init` in the terminal to get package.json.
 
 Type `npm install` in the terminal to install dependencies for the project.
 
-Type `node index.js` to initiate the application.
+Type `npm run seed`.
+
+Type `mysql -u root -p`, then `SOURCE schema.sql;` in the terminal to create `ecommerce_db` database.
+
+Type `npm start` to initiate the application.
 
 Note that there is no testing for this project!
 

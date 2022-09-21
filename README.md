@@ -33,7 +33,7 @@ Type `npm init` in the terminal to get package.json.
 
 Type `npm install` in the terminal to install dependencies for the project.
 
-Type `npm run seed`.
+Type `npm run seed` in the terminal to populate the database.
 
 Type `mysql -u root -p`, then `SOURCE schema.sql;` in the terminal to create `ecommerce_db` database.
 

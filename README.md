@@ -53,7 +53,7 @@ Note that there is no testing for this project!
 ## Final Thoughts
 
 ## Utilized Resources
-[Console Table](https://www.npmjs.com/package/console.table)
+[Sequelize Documentation](https://sequelize.org/docs/v6/core-concepts/model-basics/)
 
 ## Contact
 As always if you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com`!

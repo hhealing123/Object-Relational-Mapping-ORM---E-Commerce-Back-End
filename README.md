@@ -33,7 +33,7 @@ Type `npm init` in the terminal to get package.json.
 
 Type `npm install` in the terminal to install dependencies for the project.
 
-Type `npm run seed` in the terminal to populate the database.
+Type `npm run seed` in the terminal to seed data to the database for the purpose of testing routes.
 
 Type `mysql -u root -p`, then `SOURCE schema.sql;` in the terminal to create `ecommerce_db` database.
 
@@ -52,12 +52,15 @@ Note that there is no testing for this project!
 * [Contact](#contact)
 
 ## Project Demonstration
-[Project Video Demo]
+[Project Video Demo - Start Server & Seeds run]()
+[Project Video Demo - Insomia]()
 
 ## Final Thoughts
+This week's project was not hard at all since it was mainly refactoring codes and putting correct functions in model and route files. The only hard time that I encountered was probably setting up functions like GET, PUT, DELETE, and etc in routes files; however, I overcame this issue by reading Express.js documentation and class materials. I personally don't like working on anything that's Express.js related because I feel like setting up routes are just tedious but I really like this project because I could see instant results when I used GET, PUT, DELETE functions in Insomia. Also I learned that it's very important to use correct relationship between models otherwise the database breaks. Overall, I feel more confident in building functions for setting up routes than before working on this project.
 
 ## Utilized Resources
 [Sequelize Documentation](https://sequelize.org/docs/v6/core-concepts/model-basics/)
+[Express.js Documentation](https://devdocs.io/express/)
 
 ## Contact
 As always if you have any questions my GitHub user name is `hhealing123` and you can reach out to me at `hhealing123@gmail.com`!
